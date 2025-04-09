@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "my-package-panningforbacon"
+version = "0.1.0"
+description = "A simple example package"
+readme = "README.md"
+authors = [{name = "Steve Hoffman", email="panningforbacon@gmail.com"}]
